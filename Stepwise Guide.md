@@ -6,6 +6,9 @@ This project demonstrates how to deploy a **2048 game application** on an **Amaz
 
 ---
 
+<img width="450" height="450" alt="2048_LinkedIn" src="https://github.com/user-attachments/assets/8322a026-62c2-409c-a1f4-9574905700ea" />
+
+
 ## 🚀 Overview
 
 This project includes:
