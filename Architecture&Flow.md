@@ -1,6 +1,7 @@
 ## 📌 Architecture Diagram
 
-<img width="1630" height="1047" alt="Screenshot 2025-11-25 164621" src="https://github.com/user-attachments/assets/4f06d77c-ee1b-4e2c-9c0c-07b9b6befd21" />
+<img width="1428" height="921" alt="Screenshot 2025-11-25 171212" src="https://github.com/user-attachments/assets/1169e573-4766-430b-b13c-e3dbc8bc159a" />
+
 
 
 ## COMPLETE ARCHITECTURE BREAKDOWN
