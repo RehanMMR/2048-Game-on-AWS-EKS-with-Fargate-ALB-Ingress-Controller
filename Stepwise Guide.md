@@ -6,16 +6,6 @@ This project demonstrates how to deploy a **2048 game application** on an **Amaz
 
 ---
 
-## 📌 Architecture Diagram
-
-> *(Add your architecture diagram image here)*
-
-```
-![Architecture Diagram](A_2D_digital_diagram_illustrates_an_architecture_s.png)
-```
-
----
-
 ## 🚀 Overview
 
 This project includes:
